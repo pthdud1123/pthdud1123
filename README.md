@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <!-- [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj={pthdud1123})](https://solved.ac/{pthdud1123}) -->
-
-<img align="center"[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthdud1123)](https://github.com/pthdud1123/github-readme-stats)>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pthdud1123&layout=compact)](https://github.com/pthdud1123/github-readme-stats)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pthdud1123">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pthdud1123)](https://github.com/pthdud1123/github-readme-stats)
+
 
