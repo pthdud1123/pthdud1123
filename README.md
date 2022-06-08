@@ -24,4 +24,5 @@ Profile](http://mazassumnida.wtf/api/generate_badge?boj={pthdud1123})](https://s
 <!--(https://github.com/pthdud1123/github-readme-stats)-->
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pthdud1123">
+<img align='right' src="https://github.com/pthdud1123/github-readme-stats">
 
